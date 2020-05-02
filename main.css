@@ -1,0 +1,10 @@
+body{
+    background-color: #031a1b;
+    color: #aaa;
+}
+ul li {
+    list-style: none;
+}
+p.special{
+    font-style: italic;
+}
